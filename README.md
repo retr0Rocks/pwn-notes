@@ -13,3 +13,12 @@ also set mxfast to 0x30.
 
 nice primitive to play with 
 
+
+
+# LIBC GOT
+
+https://sechack.tistory.com/85
+
+https://github.com/nobodyisnobody/write-ups/tree/main/RCTF.2022/pwn/bfc
+
+
