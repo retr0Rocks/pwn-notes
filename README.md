@@ -21,6 +21,7 @@ https://sechack.tistory.com/85
 
 https://github.com/nobodyisnobody/write-ups/tree/main/RCTF.2022/pwn/bfc
 
+# RAX CONTROL
 
 In a SROP situation (or a situation that requires controling rax)
 
