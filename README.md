@@ -22,3 +22,8 @@ https://sechack.tistory.com/85
 https://github.com/nobodyisnobody/write-ups/tree/main/RCTF.2022/pwn/bfc
 
 
+In a SROP situation (or a situation that requires controling rax)
+
+we can call alarm(SYSCALL_NUMBER) twice which will set the rax to the desired rax value
+
+reference : https://volticks.github.io/notes-writeup/
